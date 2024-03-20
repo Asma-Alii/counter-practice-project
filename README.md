@@ -1,2 +1,2 @@
-# counter-practice-project
-my first counter project practice
+# counter-project
+my first javascript counter project practice
